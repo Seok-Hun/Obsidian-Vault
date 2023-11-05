@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "2bcb4444fe648833",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e989ab5509c372e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "791f8de27426dfed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Warehouse/Data Warehouse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eeda0ce6e1d2b274",
+    "type": "split",
+    "children": [
+      {
+        "id": "b44e7251badae195",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe474e006cf706e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "695ae70e94204bed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "storage",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "993af30c0bc47af6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a40ef5336be5bb3",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6be7064f2b1a4bc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca06a216bb5f7e36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d087827c8a618e2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Warehouse/Data Warehouse.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2b87521b53e97d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data Warehouse/Data Warehouse.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "091540e004c53daa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "33374da9f037c801",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data Warehouse/Data Warehouse.md"
+              }
+            }
+          },
+          {
+            "id": "ddb6cb39910d690b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "random-note:랜덤 노트 열기": false
+    }
+  },
+  "active": "791f8de27426dfed",
+  "lastOpenFiles": [
+    "AWS(Amazon Web Service)/AWS(Amazon Web Service).md",
+    "스토리지(Storage)/스토리지(Storage).md",
+    "가상화(Virtualization)/가상화(Virtualization).md",
+    "알고리즘(algorithm)/Greedy Algorithm/Greedy Algorithm.md",
+    "OSI 모형(OSI 7계층)/OSI 모형(OSI 7계층).md",
+    "네트워크(Network)/네트워크(Network).md",
+    "알고리즘(algorithm)/정렬 알고리즘(Sorting Algorithm)/선택 정렬(Selection Sort)/선택 정렬(Selection Sort).md",
+    "알고리즘(algorithm)/정렬 알고리즘(Sorting Algorithm)/정렬 알고리즘(Sorting Algorithm).md",
+    "알고리즘(algorithm)/정렬 알고리즘(Sorting Algorithm)/퀵 정렬(Quick Sort)/퀵 정렬(Quick Sort).md",
+    "알고리즘(algorithm)/정렬 알고리즘(Sorting Algorithm)/병합 정렬(Merge Sort)/병합 정렬(Merge Sort).md",
+    "알고리즘(algorithm)/정렬 알고리즘(Sorting Algorithm)/삽입 정렬(Insertion Sort)/삽입 정렬(Insertion Sort).md",
+    "알고리즘(algorithm)/정렬 알고리즘(Sorting Algorithm)/퀵 정렬(Quick Sort)",
+    "알고리즘(algorithm)/정렬 알고리즘(Sorting Algorithm)/병합 정렬(Merge Sort)",
+    "알고리즘(algorithm)/정렬 알고리즘(Sorting Algorithm)/삽입 정렬(Insertion Sort)",
+    "알고리즘(algorithm)/정렬 알고리즘(Sorting Algorithm)/버블 정렬(Bubble Sort)/버블 정렬(Bubble Sort).md",
+    "알고리즘(algorithm)/정렬 알고리즘(Sorting Algorithm)/선택 정렬(Selection Sort)",
+    "알고리즘(algorithm)/정렬 알고리즘(Sorting Algorithm)/버블 정렬(Bubble Sort)",
+    "알고리즘(algorithm)/정렬 알고리즘(Sorting Algorithm)",
+    "클라우드 컴퓨팅(Cloud Computing)/클라우드 컴퓨팅(Cloud Computing).md",
+    "정렬 알고리즘(Sorting Algorithm)/정렬 알고리즘(Sorting Algorithm).md",
+    "정렬 알고리즘(Sorting Algorithm)/스크린샷 2023-10-30 오전 9.09.08.png",
+    "정렬 알고리즘(Sorting Algorithm)",
+    "Data Warehouse/Data Warehouse.md",
+    "바이트코드(Bytecode, portable code, p-code).md",
+    "자바 바이트코드(Java Bytecode).md",
+    "detection 알고리즘.md",
+    "프로시저(Procedure).md",
+    "관계형 데이터베이스(RDBMS).md",
+    "OLTP(온라인 트랜잭션 처리), OLAP(온라인 분석 처리)/OLTP(온라인 트랜잭션 처리), OLAP(온라인 분석 처리).md",
+    "하위 호환성(Backward Compatibility).md",
+    "DB 클러스터(DB Cluster).md",
+    "서버(Server)/서버(Server).md",
+    "MongoDB.md",
+    "ODBMS(Object DBMS, 객체관계 DBMS).md",
+    "context.mdb",
+    "가상화(Virtualization)/Pasted image 20231027003342.png",
+    "가상화(Virtualization)",
+    "알고리즘(algorithm)/Greedy Algorithm",
+    "이진 탐색 알고리즘(Binary Search Algorithm)/Pasted image 20231017150915.png",
+    "AWS(Amazon Web Service)/Pasted image 20231022182946.png",
+    "AWS(Amazon Web Service)/Pasted image 20231022182722.png",
+    "AWS(Amazon Web Service)/Pasted image 20231022181700.png",
+    "AWS(Amazon Web Service)/Pasted image 20231022181225.png",
+    "AWS(Amazon Web Service)/Pasted image 20231022180824.png",
+    "AWS(Amazon Web Service)/Pasted image 20231022175032.png",
+    "AWS(Amazon Web Service)/Pasted image 20231022174648.png",
+    "무제 파일.canvas"
+  ]
+}
