@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Warehouse/Data Warehouse.md",
-                "mode": "source",
+                "file": "스토리지(Storage)/스토리지(Storage).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "storage",
+                "query": "osi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "5a40ef5336be5bb3",
+            "id": "ecb235d7cd3dee6d",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6be7064f2b1a4bc8",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Warehouse/Data Warehouse.md",
+                "file": "스토리지(Storage)/스토리지(Storage).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Warehouse/Data Warehouse.md",
+                "file": "스토리지(Storage)/스토리지(Storage).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Warehouse/Data Warehouse.md"
+                "file": "스토리지(Storage)/스토리지(Storage).md"
               }
             }
           },
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,18 +162,31 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "random-note:랜덤 노트 열기": false
+      "random-note:랜덤 노트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "791f8de27426dfed",
+  "active": "695ae70e94204bed",
   "lastOpenFiles": [
+    "클라우드 컴퓨팅(Cloud Computing)/클라우드 컴퓨팅(Cloud Computing).md",
+    "PasS(Platform as a Service)/PasS(Platform as a Service).md",
+    "SasS(Software as a Service)/SasS(Software as a Service).md",
     "AWS(Amazon Web Service)/AWS(Amazon Web Service).md",
+    "네트워크(Network)/네트워크(Network).md",
+    "Load Balancing(부하분산).md",
+    "Hybrid Cloud/Hybrid Cloud.md",
+    "hello/README.md.md",
+    "DB 클러스터(DB Cluster).md",
+    "hello",
+    "고가용성(High Availability)/고가용성(High Availability).md",
+    "데이터베이스 관리 시스템(DBMS)/데이터베이스 관리 시스템(DBMS).md",
+    "Data Warehouse/Data Warehouse.md",
+    "Spaces/Home",
+    "Spaces",
     "스토리지(Storage)/스토리지(Storage).md",
     "가상화(Virtualization)/가상화(Virtualization).md",
     "알고리즘(algorithm)/Greedy Algorithm/Greedy Algorithm.md",
     "OSI 모형(OSI 7계층)/OSI 모형(OSI 7계층).md",
-    "네트워크(Network)/네트워크(Network).md",
     "알고리즘(algorithm)/정렬 알고리즘(Sorting Algorithm)/선택 정렬(Selection Sort)/선택 정렬(Selection Sort).md",
     "알고리즘(algorithm)/정렬 알고리즘(Sorting Algorithm)/정렬 알고리즘(Sorting Algorithm).md",
     "알고리즘(algorithm)/정렬 알고리즘(Sorting Algorithm)/퀵 정렬(Quick Sort)/퀵 정렬(Quick Sort).md",
@@ -185,26 +199,13 @@
     "알고리즘(algorithm)/정렬 알고리즘(Sorting Algorithm)/선택 정렬(Selection Sort)",
     "알고리즘(algorithm)/정렬 알고리즘(Sorting Algorithm)/버블 정렬(Bubble Sort)",
     "알고리즘(algorithm)/정렬 알고리즘(Sorting Algorithm)",
-    "클라우드 컴퓨팅(Cloud Computing)/클라우드 컴퓨팅(Cloud Computing).md",
     "정렬 알고리즘(Sorting Algorithm)/정렬 알고리즘(Sorting Algorithm).md",
     "정렬 알고리즘(Sorting Algorithm)/스크린샷 2023-10-30 오전 9.09.08.png",
     "정렬 알고리즘(Sorting Algorithm)",
-    "Data Warehouse/Data Warehouse.md",
     "바이트코드(Bytecode, portable code, p-code).md",
     "자바 바이트코드(Java Bytecode).md",
     "detection 알고리즘.md",
-    "프로시저(Procedure).md",
-    "관계형 데이터베이스(RDBMS).md",
-    "OLTP(온라인 트랜잭션 처리), OLAP(온라인 분석 처리)/OLTP(온라인 트랜잭션 처리), OLAP(온라인 분석 처리).md",
-    "하위 호환성(Backward Compatibility).md",
-    "DB 클러스터(DB Cluster).md",
-    "서버(Server)/서버(Server).md",
-    "MongoDB.md",
-    "ODBMS(Object DBMS, 객체관계 DBMS).md",
-    "context.mdb",
     "가상화(Virtualization)/Pasted image 20231027003342.png",
-    "가상화(Virtualization)",
-    "알고리즘(algorithm)/Greedy Algorithm",
     "이진 탐색 알고리즘(Binary Search Algorithm)/Pasted image 20231017150915.png",
     "AWS(Amazon Web Service)/Pasted image 20231022182946.png",
     "AWS(Amazon Web Service)/Pasted image 20231022182722.png",

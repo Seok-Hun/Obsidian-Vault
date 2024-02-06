@@ -8,6 +8,7 @@
   "mobileMakeBar": true,
   "inlineStyler": true,
   "makerMode": true,
+  "spacesMDBInHidden": true,
   "inlineStylerColors": false,
   "editorFlow": true,
   "internalLinkClickFlow": true,
@@ -18,11 +19,9 @@
   "activeView": "root",
   "hideFrontmatter": true,
   "activeSpace": "",
-  "spacesCompactMode": false,
   "defaultDateFormat": "MMM dd yyyy",
   "spacesEnabled": true,
   "spacesPerformance": false,
-  "collapsedTags": [],
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -30,24 +29,9 @@
   "spaceRowHeight": 29,
   "spacesDisablePatch": false,
   "folderNoteInsideFolder": true,
-  "folderNoteDefaultView": true,
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {
-    "Obsidian Vault": [
-      "데이터베이스(DB)",
-      "Resource",
-      "데이터베이스(DB)",
-      "DataBase",
-      "DataBase",
-      "DataBase",
-      "DataBase(DB)",
-      "DataBase(DB)",
-      "DataBase(DB)",
-      "DataBase(DB)"
-    ]
-  },
   "expandedSpaces": [
     "/",
     null,
@@ -55,16 +39,12 @@
     null
   ],
   "expandFolderOnClick": true,
-  "openFolders": [],
-  "fileIcons": [],
-  "cachedSpaces": [
-    "Obsidian Vault"
-  ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
   "emojiTriggerChar": ":",
   "folderContextFile": "context",
-  "tagContextFolder": "Context",
+  "folderFrameFile": "frames",
+  "spacesFolder": "Spaces",
   "hiddenFiles": [
     "Context"
   ],
@@ -80,18 +60,59 @@
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",
+  "waypoints": [
+    "Spaces/Home",
+    "/",
+    "spaces://$tags"
+  ],
+  "rootSpaces": [],
+  "spacesUseAlias": false,
+  "fmKeyAlias": "aliases",
+  "fmKeyBanner": "banner",
+  "fmKeyColor": "color",
+  "fmKeySticker": "sticker",
+  "fmKeyContexts": "_contexts",
+  "fmKeySort": "_sort",
+  "fmKeyFilter": "_filters",
+  "fmKeyLinks": "_links",
+  "openSpacesOnLaunch": true,
+  "indexSVG": false,
+  "quickFrames": [],
+  "readableLineWidth": true,
+  "autoAddContextsToSubtags": true,
+  "autoMigration08": false,
+  "releaseNotesPrompt": 0.804,
+  "enableDefaultSpaces": true,
+  "enableTagSpaces": true,
+  "enableHomeSpace": true,
+  "showSpacePinIcon": true,
+  "spacesCompactMode": false,
+  "collapsedTags": [],
+  "folderNoteDefaultView": true,
+  "expandedFolders": {
+    "Obsidian Vault": [
+      "데이터베이스(DB)",
+      "Resource",
+      "데이터베이스(DB)",
+      "DataBase",
+      "DataBase",
+      "DataBase",
+      "DataBase(DB)",
+      "DataBase(DB)",
+      "DataBase(DB)",
+      "DataBase(DB)"
+    ]
+  },
+  "openFolders": [],
+  "fileIcons": [],
+  "cachedSpaces": [
+    "Obsidian-Vault"
+  ],
+  "tagContextFolder": "Context",
   "spacesSyncLastUpdated": "Context/spacesLastSync.log",
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
   "spacesAutoBackupLast": 1698863585276,
-  "spacesUseAlias": false,
-  "precreateVaultSpace": true,
-  "fmKeyAlias": "aliases",
-  "fmKeyBanner": "banner",
-  "fmKeyColor": "color",
-  "fmKeySticker": "sticker",
-  "openSpacesOnLaunch": true,
-  "indexSVG": false,
-  "readableLineWidth": true
+  "precreateVaultSpace": true
 }
